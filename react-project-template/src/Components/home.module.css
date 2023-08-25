@@ -1,0 +1,6 @@
+.container{
+    flex-direction: column;
+    border-radius: 0.8rem;
+    background-color: bisque;
+    width: 100vh;
+}
